@@ -3,7 +3,7 @@
 - 📚 Certificate : Coursera - Google Data Analyst Professional
 - 📚 Nanodegree : Udacity - Data Analyst
 - 🌱 I’m currently learning and practicing my data analyst skills every day through projects/case studies
-- 📚 Skills: Python, R, SQL, Tableau, Execel 
+- 📚 Skills: Python, R, SQL, Tableau, Excel 
 - 👯 I’m looking to collaborate on any data projects 
 - 👀 I’m interested in math, data analytics, data science, AI, and machine learning
 - 💡 Check out my Tableau Vizzes: [Tableau Public](https://public.tableau.com/app/profile/maryam)
