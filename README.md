@@ -13,4 +13,5 @@
   - [LinkedIn](https://www.linkedin.com/in/maryam-bala/)
   - [Twitter](https://twitter.com/databeee)
   - [Instagram](https://www.instagram.com/databeee/)
-
+  
+  Check out me out on medium!  - [Medium ](https://medium.com/@maryambee)
