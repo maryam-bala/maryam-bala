@@ -14,4 +14,4 @@
   - [Twitter](https://twitter.com/databeee)
   - [Instagram](https://www.instagram.com/databeee/)
   
-  Check out me out on medium!  - [Medium ](https://medium.com/@maryambee)
+  Check out me out on [Medium ](https://medium.com/@maryambee)
