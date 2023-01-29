@@ -11,7 +11,5 @@
 - ⚡ Fun fact: I love watching DIY videos :) 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/maryam-bala/)
-  - [Twitter](https://twitter.com/databeee)
-  - [Instagram](https://www.instagram.com/databeee/)
   
   Check out me out on [Medium ](https://medium.com/@maryambee)
