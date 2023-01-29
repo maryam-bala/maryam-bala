@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning and practicing my data analyst skills every day through projects/case studies
 - 📚 Skills: Python, SQL, Tableau, Excel 
 - 👯 I’m looking to collaborate on any data projects 
-- 👀 I’m interested in math, data analytics, data science, AI, and machine learning
+- 👀 I’m interested in math, AI, and machine learning
 - 💡 Check out my Tableau Vizzes: [Tableau Public](https://public.tableau.com/app/profile/maryam)
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love watching DIY videos :) 
