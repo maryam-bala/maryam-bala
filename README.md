@@ -1,5 +1,6 @@
 ### Hi there 👋 I’m Maryam 👩
 
+- 📚 Undergrad : Engineering 
 - 📚 Certificate : Coursera - Google Data Analyst Professional
 - 📚 Nanodegree : Udacity - Data Analyst
 - 📚 Currently : Msc - Artificial Intelligence 
