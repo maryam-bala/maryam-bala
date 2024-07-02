@@ -3,7 +3,7 @@
 - 📚 Undergrad : Engineering 
 - 📚 Certificate : Coursera - Google Data Analyst Professional
 - 📚 Nanodegree : Udacity - Data Analyst
-- 📚 Currently : Msc - Artificial Intelligence 
+- 📚 MSc : Artificial Intelligence 
 - 🌱 I’m currently learning and practicing my skills every day through projects/case studies
 - 📚 Skills: Python, Tableau, Machine Learning, Deep Learning
 - 👀 I’m interested in data, AI, and machine learning
