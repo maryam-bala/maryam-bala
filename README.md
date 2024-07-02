@@ -6,7 +6,7 @@
 - 📚 MSc : Artificial Intelligence 
 - 🌱 I’m currently learning and practicing my skills every day through projects/case studies
 - 📚 Skills: Python, Tableau, Machine Learning, Deep Learning
-- 👀 I’m interested in data, AI, and machine learning
+- 👀 I’m interested in AI - machine learning, and natural language processing
 - 💡 Check out my Tableau Vizzes: [Tableau Public](https://public.tableau.com/app/profile/maryam)
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love watching DIY videos :) 
