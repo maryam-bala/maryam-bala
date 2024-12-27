@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Maryam 👩
 
-- 📚 Undergrad : Engineering 
+- 📚 Undergrad : Architectural Conservation and Sustainability Engineering 
 - 📚 Certificate : Coursera - Google Data Analyst Professional
 - 📚 Nanodegree : Udacity - Data Analyst
 - 📚 MSc : Artificial Intelligence 
