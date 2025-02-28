@@ -6,7 +6,7 @@
 - 📚 MSc : Artificial Intelligence 
 - 📚 Skills: Python, Tableau, R, Machine Learning, Deep Learning
 - Deep learning framework: PyTorch, TensorFlow, Keras 
-- 👀 I am interested in natural language processing, computer vision, multimodal learning, machine learning, and explainable AI.
+- 👀 I am interested in natural language processing, machine learning, and explainable AI.
 - 💡 Check out my Tableau Vizzes: [Tableau Public](https://public.tableau.com/app/profile/maryam)
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love watching DIY videos :) 
