@@ -3,7 +3,8 @@
 - 📚 Undergrad : Architectural Conservation and Sustainability Engineering 
 - 📚 Certificate : Coursera - Google Data Analyst Professional
 - 📚 Nanodegree : Udacity - Data Analyst
-- 📚 MSc : Artificial Intelligence 
+- 📚 MSc : Artificial Intelligence
+- 📚 PhD : AI for Sustainability (Ongoing)
 - 📚 Skills: Python, Tableau, R, Machine Learning, Deep Learning
 - Deep learning framework: PyTorch, TensorFlow, Keras 
 - 👀 I am interested in natural language processing, machine learning, and explainable AI.
